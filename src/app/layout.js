@@ -15,7 +15,6 @@ const geistMono = localFont({
 export const metadata = {
   title: "Finance Flow",
   description: "Mantenha suas economias e vida financeira em dia com o Finance Flow",
-  favicon: "/favicon.ico",
 
 };
 
