@@ -17,7 +17,7 @@ export default function Home() {
       setFeedbackMessage('Login bem-sucedido!');
       setTimeout(() => {
         userRouter.push('/dashboard');
-      },1500)
+      },1000)
       
     } else {
       setFeedbackMessage('Usuário ou senha incorretos.');
